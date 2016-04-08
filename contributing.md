@@ -3,7 +3,7 @@ How to contribute
 
 - Use plain english.
 - Try not to use long sentences.
-- Cite the least inexpensive book when you have to choose.
+- Cite the most inexpensive book when you have to choose.
 - Ask other people to contribute
 - Find local students in your community/city and spread the word
 
