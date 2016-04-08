@@ -1,6 +1,6 @@
 # Low-cost engineering preparation
 
-A village boy's guide to the engineering preparation.
+A village boy's guide to engineering entrance preparation.
 
 Here is a list of resources in very simple english that can help students who:
 - Can understand simple english
@@ -47,25 +47,31 @@ You are in class 11th right now or you have just finiedhed class 10th. This is t
 #### - Physics
 Books:
 - CBSE Physics for 11th Class
+
 #### - Chemistry
 Books:
-- CBSE Physics for 11th Class
+- CBSE Chemistry for 11th Class
+
 #### - Maths
 Books:
-- CBSE Physics for 11th Class
+- CBSE Maths for 11th Class
 
 ### Level 2 (Self-prep)
 #### - Physics
 Books:
 - HC Verma Part-1
+
 #### - Chemistry
+
 #### - Maths
 
 ### Level 3 (Advanced)
 #### - Physics
 Books:
 - I.E Irodov
+
 #### - Chemistry
 Books:
 - Organic Chemistry by Morrison Boyd
+
 #### - Maths
