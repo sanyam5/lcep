@@ -60,10 +60,16 @@ Books:
 #### - Physics
 Books:
 - HC Verma Part-1
+- DC Pandey Mechanics Part-1,2
+- DC Pandey Thermodynamics
 
 #### - Chemistry
+Books:
+- R C Mukherjee
 
 #### - Maths
+Books:
+- R D Sharma
 
 ### Level 3 (Advanced)
 #### - Physics
@@ -75,3 +81,5 @@ Books:
 - Organic Chemistry by Morrison Boyd
 
 #### - Maths
+Books:
+- SK Goyal
