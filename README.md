@@ -66,10 +66,11 @@ Books:
 #### - Chemistry
 Books:
 - R C Mukherjee
+- OP. Tandon
 
 #### - Maths
 Books:
-- R D Sharma
+- R D Sharma or R S Agarwal
 
 ### Level 3 (Advanced)
 #### - Physics
@@ -78,8 +79,10 @@ Books:
 
 #### - Chemistry
 Books:
+- Books by Cengage Publication
 - Organic Chemistry by Morrison Boyd
 
 #### - Maths
 Books:
 - SK Goyal
+
