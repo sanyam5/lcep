@@ -3,12 +3,12 @@
 A village boy's guide to engineering entrance preparation.
 
 Here is a list of resources in very simple english that can help students who:
-- Can understand simple english
+- Can understand simple English.
 - Want to prepare for getting into great engineering colleges like IIT, IIIT, NIT, BITS.
 - Don't have the financial resources to join coaching.
 - Don't have broadband and computer access.
 
-If you have th financial resources to join coaching then I **highly** recommend doing that.
+If you have the financial resources to join a coaching, then I **highly** recommend doing that.
 
 If you have broadband and computer access then there are many resources you can use such as http://khanacademy.org
 
@@ -22,6 +22,7 @@ The aim of writing this guide is to help students prepare for engineering entran
 - If you are in class 12th
 - If you have just passed 12th.
 - If you are in class 10th or below.
+
 
 
 
@@ -41,9 +42,13 @@ Beside doing self study on your own you can also subscribe to Distance Learning 
 
 
 ## If you are in class 11th.
-You are in class 11th right now or you have just finiedhed class 10th. This is the perfect time to start preparing for JEE. So you should start increasing your level of knowledge step by step.
+You are in class 11th right now or you have just finished class 10th. This is the perfect time to start preparing for JEE. So you should start increasing your level of knowledge step by step.
+
+/****************************************/
+/****************************************/
 
 ### Level 1 (CBSE)
+NCERT books for all subjects.
 #### - Physics
 Books:
 - CBSE Physics for 11th Class
@@ -56,33 +61,52 @@ Books:
 Books:
 - CBSE Maths for 11th Class
 
+/****************************************/
+
 ### Level 2 (Self-prep)
 #### - Physics
 Books:
-- HC Verma Part-1
+- HC Verma Part-1,2
 - DC Pandey Mechanics Part-1,2
 - DC Pandey Thermodynamics
 
 #### - Chemistry
 Books:
-- R C Mukherjee
-- OP. Tandon
+- OP Tandon (For all three)
 
 #### - Maths
 Books:
-- R D Sharma or R S Agarwal
+- R D Sharma
+- R S Agarwal
+- SK Goyal
+- A Das Gupta
+- Calculus (Differential and Integral) by Amit M Agarwal
+- R C Mukherjee
+- OP. Tandon
+
+/****************************************/
 
 ### Level 3 (Advanced)
 #### - Physics
 Books:
 - I.E Irodov
+- Resnick and Halliday
 
 #### - Chemistry
 Books:
+- Organic Chemistry by Peter Sykes
 - Books by Cengage Publication
 - Organic Chemistry by Morrison Boyd
+- Organic Chemistry by SN Sanyal
+- Organic Chemistry by IL Finar
+- Physical Chemistry by RC Mukherjee
+- Physical Chemistry by Atkins
+- Inorganic Chemistry by JD Lee
 
 #### - Maths
 Books:
-- SK Goyal
+- Piskunov - Calculus
+- Coordinate Geometry and Trigonometry by SL Loney
+- Algebra by Hall and Knight
 
+/****************************************/
