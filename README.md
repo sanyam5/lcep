@@ -72,6 +72,7 @@ Books:
 
 #### - Chemistry
 Books:
+<<<<<<< HEAD
 - OP Tandon (For all three)
 
 #### - Maths
@@ -82,6 +83,14 @@ Books:
 - Calculus (Differential and Integral) by Amit M Agarwal
 
 /****************************************/
+=======
+- R C Mukherjee
+- OP. Tandon
+
+#### - Maths
+Books:
+- R D Sharma or R S Agarwal
+>>>>>>> 66cc2d8c660ce83ba42885d230da31dbb55440b2
 
 ### Level 3 (Advanced)
 #### - Physics
@@ -91,7 +100,11 @@ Books:
 
 #### - Chemistry
 Books:
+<<<<<<< HEAD
 - Organic Chemistry by Peter Sykes
+=======
+- Books by Cengage Publication
+>>>>>>> 66cc2d8c660ce83ba42885d230da31dbb55440b2
 - Organic Chemistry by Morrison Boyd
 - Organic Chemistry by SN Sanyal
 - Organic Chemistry by IL Finar
@@ -101,8 +114,13 @@ Books:
 
 #### - Maths
 Books:
+<<<<<<< HEAD
 - Piskunov - Calculus
 - Coordinate Geometry and Trigonometry by SL Loney
 - Algebra by Hall and Knight
 
 /****************************************/
+=======
+- SK Goyal
+
+>>>>>>> 66cc2d8c660ce83ba42885d230da31dbb55440b2
